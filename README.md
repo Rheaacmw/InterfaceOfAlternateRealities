@@ -1,0 +1,2 @@
+# InterfaceOfAlternateRealities
+To begin, the user is placed in a black box. Four walls surround them, each wall with multiple windows. Each window contains a glimpse into a different virtual experience. Text on the floor prompts the user to stick their head into whichever window they want to explore, to trigger a new scene. An animated camera guides the user through that specific scene, and then once finished, it brings them back to the black box. Then, the user can choose to experience a different scene by sticking their head into a different window. 
